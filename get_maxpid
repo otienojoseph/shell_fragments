@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Print max pid value of a process
+cat /proc/sys/kernel/pid_max
